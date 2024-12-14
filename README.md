@@ -11,7 +11,7 @@
 <h3 align="center">A Passionate Developer From India</h3>
 
 ## About Me
-- Backend Developer
+- Frontend Developer
 - Constant Learner
 - A Code Bug
 - Coffee Freak
